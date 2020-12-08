@@ -3,6 +3,7 @@
 This is an example program and CI pipeline showing how to run a Go project on
 Semaphore 2.0.
 
+
 ## CI on Semaphore
 
 Feel free to fork this repository and use it to [create a
